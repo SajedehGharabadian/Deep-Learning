@@ -1,6 +1,6 @@
- **Assignment43**
+ ### Assignment43
  
-⚪ # MLP vs MLP + CNN
+⚪ **MLP vs MLP + CNN**
 
 | Dataset       | Algorithm   | Accuracy | Algorithm   | Accuracy |
 | -------       | ---         | ---      | ---         | ---      |
