@@ -1,9 +1,9 @@
- **Assignment42**
+ **Assignment43**
  
-⚪ Face Calssification
+⚪ ## MLP vs MLP + CNN
 
-Read 120 images from 3 different actors
-
-| Algorithm    |    MLP         | 
-| :---         |     :---:      |
-| Accuracy     |    87.5%      |
+| Dataset       | Algorithm   | Accuracy | Algorithm   | Accuracy |
+| Mnist         |    MLP      | 97.73%   | MLP+CNN     | 97.59%   |
+| Fashion Mnist |    MLP      | 87.98%   | MLP+CNN     | 90.49%   |
+| Cifar10       |    MLP      | 42.68%   | MLP+CNN     | 69.88%   |
+| Cifar100      |    MLP      | 19.56%   | MLP+CNN     | 33.65%   |
