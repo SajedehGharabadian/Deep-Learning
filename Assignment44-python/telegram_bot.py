@@ -18,7 +18,7 @@ def send_game(message):
     mybot.register_next_step_handler(msg,recognize_vehicle)
 
 def recognize_vehicle(message):
-    model = tf.keras.models.load_model('model/Classification.h5')
+    model = tf.keras.models.load_model('Classification.h5')
 
     fileID = message.photo[-1].file_id
     file_info = mybot.get_file(fileID)
