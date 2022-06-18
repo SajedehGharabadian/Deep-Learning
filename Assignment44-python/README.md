@@ -5,9 +5,13 @@
 Training a CNN network on the dataset
 
 Class:
+
 1-Car
+
 2-Air Plane
+
 3-Bicycle
+
 4-Ship
 
 | Dataset       | Loss        | Accuracy |
