@@ -1,10 +1,22 @@
- ### Assignment43
+ ### Assignment44
  
-⚪ **MLP vs MLP + CNN**
+⚪ **Vehicle Classification**
 
-| Dataset       | Algorithm   | Accuracy | Algorithm   | Accuracy |
-| -------       | ---         | ---      | ---         | ---      |
-| Mnist         |    MLP      | 97.73%   | MLP+CNN     | 97.59%   |
-| Fashion Mnist |    MLP      | 87.98%   | MLP+CNN     | 90.49%   |
-| Cifar10       |    MLP      | 42.68%   | MLP+CNN     | 69.88%   |
-| Cifar100      |    MLP      | 19.56%   | MLP+CNN     | 33.65%   |
+Training a CNN network on the dataset
+
+Class:
+1-Car
+2-Air Plane
+3-Bicycle
+4-Ship
+
+| Dataset       | Loss        | Accuracy |
+| -------       | ---         | ---      |
+| Train         |    0.36     | 86.68%   | 
+| Validation    |    1.02     | 61.9%    | 
+| Test          |    0.647    | 79.61%   | 
+
+
+Confusion Matrix:
+
+![image](https://user-images.githubusercontent.com/76538787/174437637-4edb3de7-6ed0-4398-ae54-82117213386e.png)
