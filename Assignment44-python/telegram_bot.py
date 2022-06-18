@@ -3,7 +3,7 @@ import telebot
 import cv2
 import numpy as np
 
-mybot = telebot.TeleBot("5209123890:AAHsieoYDSR_XukOQ_W3ULRB755ldJ_UT1Y")
+mybot = telebot.TeleBot("token")
 
 @mybot.message_handler(commands=['start'])
 def send_welcome(message):
