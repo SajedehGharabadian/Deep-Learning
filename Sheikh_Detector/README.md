@@ -1,5 +1,5 @@
  
-⚪ ###Sheikh Detector
+⚪ ### Sheikh Detector
 
 ◽ Using ResNet50V2 model.
 
