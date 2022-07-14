@@ -1,26 +1,19 @@
- ### Assignment44
  
-⚪ **Vehicle Classification**
+⚪ ###Sheikh Detector
 
-Training a CNN network on the dataset
+◽ Using ResNet50V2 model.
+
+◽The database consists of 2 categories of images.
 
 Class:
 
-1-Car
+1- Normal person
 
-2-Air Plane
-
-3-Bicycle
-
-4-Ship
+2- Sheikh
 
 | Dataset       | Loss        | Accuracy |
 | -------       | ---         | ---      |
-| Train         |    0.36     | 86.68%   | 
-| Validation    |    1.02     | 61.9%    | 
-| Test          |    0.647    | 79.61%   | 
+| Train         |    0.0307   | 99.2%    | 
+| Validation    |    0.2021   | 94.57%    | 
 
 
-Confusion Matrix:
-
-![image](https://user-images.githubusercontent.com/76538787/174437637-4edb3de7-6ed0-4398-ae54-82117213386e.png)
