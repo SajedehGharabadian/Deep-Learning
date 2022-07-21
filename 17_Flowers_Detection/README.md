@@ -1,26 +1,12 @@
- ### Assignment44
+### 17 Flowers Detection
  
-⚪ **Vehicle Classification**
+◽ Using MobileNetV2 model.
 
-Training a CNN network on the dataset
-
-Class:
-
-1-Car
-
-2-Air Plane
-
-3-Bicycle
-
-4-Ship
+◽The database consists of 17 categories of images.
 
 | Dataset       | Loss        | Accuracy |
 | -------       | ---         | ---      |
-| Train         |    0.36     | 86.68%   | 
-| Validation    |    1.02     | 61.9%    | 
-| Test          |    0.647    | 79.61%   | 
+| Train         |    0.2266   | 95.59%   | 
+| Validation    |    0.3092   | 90.69%   |
+| Test          |    0.5871   | 81.60%   | 
 
-
-Confusion Matrix:
-
-![image](https://user-images.githubusercontent.com/76538787/174437637-4edb3de7-6ed0-4398-ae54-82117213386e.png)
