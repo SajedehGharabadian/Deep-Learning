@@ -7,7 +7,7 @@ import cv2
 import tensorflow as tf
 import numpy as np
 
-model = tf.keras.models.load_model('D:\Face Mask Detection\Face_Mask.h5')
+model = tf.keras.models.load_model('Face Mask Detection\Infrence\Face_Mask.h5')
 
 class FaceMask(QMainWindow):
 
