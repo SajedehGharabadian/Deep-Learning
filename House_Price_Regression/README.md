@@ -1,19 +1,8 @@
  
- ### Sheikh Detector
+ ### House Price Regression
 
-◽ Using ResNet50V2 model.
+◽ Dataset: [link]https://github.com/emanhamed/Houses-dataset
 
-◽The database consists of 2 categories of images.
-
-Class:
-
-1- Normal person
-
-2- Sheikh
-
-| Dataset       | Loss        | Accuracy |
-| -------       | ---         | ---      |
-| Train         |    0.0307   | 99.2%    | 
-| Validation    |    0.2021   | 94.57%    | 
-
+◾Infrence
+Simply add 4 image into Infrence folder, including bathroom, bedroom, kitchen and frontal of house
 
