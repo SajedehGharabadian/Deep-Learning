@@ -2,7 +2,8 @@
  ### Age Regression
 
 ◽ Using InceptionResNetV2 model.
-▫️ Dataset: https://www.kaggle.com/datasets/jangedoo/utkface-new
+
+▫️ Dataset: [UTK Face](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 
 
 | Dataset       | Loss        |
