@@ -1,19 +1,13 @@
  
- ### Sheikh Detector
+ ### Age Regression
 
-◽ Using ResNet50V2 model.
+◽ Using InceptionResNetV2 model.
+▫️ Dataset: https://www.kaggle.com/datasets/jangedoo/utkface-new
 
-◽The database consists of 2 categories of images.
 
-Class:
-
-1- Normal person
-
-2- Sheikh
-
-| Dataset       | Loss        | Accuracy |
-| -------       | ---         | ---      |
-| Train         |    0.0307   | 99.2%    | 
-| Validation    |    0.2021   | 94.57%    | 
+| Dataset       | Loss        |
+| -------       | ---         |
+| Train         |    4.3499   | 
+| Validation    |    7.1966   |
 
 
