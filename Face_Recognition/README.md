@@ -1,8 +1,11 @@
  
- ### House Price Regression
+ ### Face Regression
 
-◾Dataset: [link](https://github.com/emanhamed/Houses-dataset)
+| Dataset       | Loss        | Accuracy |
+| -------       | ---         | ---      |
+| Train         |     0.022   | 91.19%   | 
+| Validation    |    0.041    | 77.2%    |
 
-◾Infrence
-Simply add 4 image into Infrence folder, including bathroom, bedroom, kitchen and frontal of house
+▪️Infrence
 
+usage: python Inference.py [weight PATH] [image PATH]
