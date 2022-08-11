@@ -9,3 +9,7 @@
 ▪️Infrence
 
 usage: python Inference.py [weight PATH] [image PATH]
+
+▪️WandB result:
+
+[link](https://wandb.ai/gharabadiyan/Face-Detection?workspace=user-gharabadiyan))
