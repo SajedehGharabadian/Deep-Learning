@@ -1,7 +1,7 @@
  
  ### Face Mask Detection
 
-◽ Using ResNet50V2 model.
+◽ Using ResNet50V2 model
 
 ◽The database consists of 2 categories of images.
 
